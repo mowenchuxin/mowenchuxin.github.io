@@ -3,12 +3,15 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: My Blog
-subtitle: ''
-description: ''
+title: Guan
+subtitle: 'On the way' #'Be yourself' #刘备对周瑜说，我今天就把荆州还给你。
+description: '怎么建站|文档'
 keywords:
-author: Ross
+author: Guan
 language: en
+email: mowenchuxin@gmail.com
+#language: en
+#language: en
 timezone: ''
 
 # Extensions
@@ -20,7 +23,7 @@ theme: matery
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://github.com/mowenchuxin
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -104,4 +107,7 @@ ignore:
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/mowenchuxin/mowenchuxin.github.io
+  branch: main
+
