@@ -2,7 +2,6 @@
 title: Hello Everyone
 ---
 
-##In the process of building my personal website, I gained two important insights:
 
 1. **Learning and Challenges**: Initially, I invested time in learning the basic principles and methods of website building. However, as time progressed, I gradually mastered these skills and began to enjoy the process. Along the way, I encountered challenges, but overcoming each obstacle helped me become more proficient and boosted my confidence in my abilities.
 

@@ -4,21 +4,21 @@ menu:
   Index:
     url: /
     icon: fas fa-home
-  Tags:
-    url: /tags
-    icon: fas fa-tags
-  Categories:
-    url: /categories
-    icon: fas fa-bookmark
-  Archives:
-    url: /archives
-    icon: fas fa-archive
+  # Tags:
+  #   url: /tags
+  #   icon: fas fa-tags
+  # Categories:
+  #   url: /categories
+  #   icon: fas fa-bookmark
+  # Archives:
+  #   url: /archives
+  #   icon: fas fa-archive
   About:
     url: /about
     icon: fas fa-user-circle
-  Contact:
-    url: /contact
-    icon: fas fa-comments
+  # Contact:
+  #   url: /contact
+  #   icon: fas fa-comments
 #  Friends:
 #    url: /friends
 #    icon: fas fa-address-book
@@ -132,14 +132,14 @@ indexbtn:
 # icon/button will not show up if you leave the corresponding socialLink empty
 # 首页 banner 中的第二行个人信息配置，留空即不启用
 socialLink:
-  github:  https://github.com/mowenchuxin
+  github: https://github.com/mowenchuxin
   email: mowenchuxin@gmail.com
+  linkedin: https://www.linkedin.com/in/rossli007
   facebook: # https://www.facebook.com/xxx
   twitter: # https://twitter.com/xxx
   qq: #1181062873
-  weibo: # https://weibo.com/xxx
   zhihu: https://www.zhihu.com/people/mowenchuxin
-  rss: true # true、false
+  rss: false # true、false
 
 # Whether to activate the Post TOC, and Configure which title types are supported by TOC support.
 # You can add `toc: false` to the Front-matter of a post to turn off the TOC.
@@ -204,8 +204,8 @@ clicklove:
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
 profile:
   avatar: /medias/avatar.jpg
-  career: Hello，I am a mobile game developer for many years.
-  introduction: If you wish to succeed, you should use persistence as your good friend, experience as your reference, prudence as your brother and hope as your sentry.
+  career: Hello, I am Guan and I've been involved in mobile games development for many years.
+  introduction: I am proficient in C#, Lua, JavaScript, C++, Php etc.
 
 # config my projects informations in about page.
 # If you don't want to display this `My Projects` content, you can deactivate or delete this configuration.
@@ -217,7 +217,7 @@ myProjects:
         icon: fas fa-database
         iconBackground: 'linear-gradient(to bottom right, #F06292 0%, #EF5350 100%)'
         url: https://github.com/cocos2d/cocos2d-x
-        desc: 这是Cocos2d-x游戏引擎源码库。
+        desc: This is Cocos2d-x Game Engine Source Code Library。
     typora-vue-theme:
         icon: fas fa-file-alt
         iconBackground: 'linear-gradient(to bottom right, #29B6F6 0%, #1E88E5 100%)'
@@ -564,10 +564,9 @@ subtitle:
   loop: true # 是否循环
   showCursor: true # 是否显示光标
   startDelay: 300 # 开始延迟
-  typeSpeed: 100 # 打字速度
-  backSpeed: 50 # 删除速度
-  sub1: 勇气是压力下的优雅
-  sub2: It is our choices that show what we truly are, far more than our abilities.   --J.K. Rowling
+  typeSpeed: 90 # 打字速度 越小越快
+  backSpeed: 50 # 删除速度 #勇气是压力下的优雅 
+  sub1: It is our choices that show what we truly are, far more than our abilities.   --J.K. Rowling
 
 # 手机二级菜单.
 navMenu:

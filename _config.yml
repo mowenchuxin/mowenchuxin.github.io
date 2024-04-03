@@ -5,17 +5,16 @@
 # Site
 title: Guan
 subtitle: 'On the way' #'Be yourself' #刘备对周瑜说，我今天就把荆州还给你。
-description: '怎么建站|文档'
+description: '如何建站|怎么建站|文档'
 keywords:
 author: Guan
 language: en
 email: mowenchuxin@gmail.com
 #language: en
-#language: en
 timezone: ''
 
 # Extensions
-## next/fluid/volantis/fluid
+## next/fluid/volantis/matery/butterfly
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: matery
