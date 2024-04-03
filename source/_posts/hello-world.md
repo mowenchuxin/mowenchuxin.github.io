@@ -2,9 +2,7 @@
 title: Hello Everyone
 ---
 
-[//]: # (Welcome to [Hexo]&#40;https://hexo.io/&#41;! This is your very first post. Check [documentation]&#40;https://hexo.io/docs/&#41; for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting]&#40;https://hexo.io/docs/troubleshooting.html&#41; or you can ask me on [GitHub]&#40;https://github.com/hexojs/hexo/issues&#41;.)
-
-In the process of building my personal website, I gained two important insights:
+##In the process of building my personal website, I gained two important insights:
 
 1. **Learning and Challenges**: Initially, I invested time in learning the basic principles and methods of website building. However, as time progressed, I gradually mastered these skills and began to enjoy the process. Along the way, I encountered challenges, but overcoming each obstacle helped me become more proficient and boosted my confidence in my abilities.
 

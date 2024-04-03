@@ -18,7 +18,7 @@ timezone: ''
 ## next/fluid/volantis/fluid
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: matery
+theme: fluid
 
 
 # URL
