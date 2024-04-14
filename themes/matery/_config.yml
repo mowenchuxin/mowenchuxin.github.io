@@ -132,13 +132,13 @@ indexbtn:
 # icon/button will not show up if you leave the corresponding socialLink empty
 # 首页 banner 中的第二行个人信息配置，留空即不启用
 socialLink:
-  github: https://github.com/mowenchuxin
   email: mowenchuxin@gmail.com
+  github: https://github.com/mowenchuxin
   linkedin: https://www.linkedin.com/in/rossli007
   facebook: # https://www.facebook.com/xxx
   twitter: # https://twitter.com/xxx
   qq: #1181062873
-  zhihu: https://www.zhihu.com/people/mowenchuxin
+  zhihu: #https://www.zhihu.com/people/mowenchuxin
   rss: false # true、false
 
 # Whether to activate the Post TOC, and Configure which title types are supported by TOC support.
